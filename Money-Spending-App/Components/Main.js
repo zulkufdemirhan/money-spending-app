@@ -27,19 +27,6 @@ return (
 
 
 
-// {total > 0 && money - total !== 0 && (
-            
-//     <div> You have last {money-total}$!</div>
-// )}
 
-// {total === 0 && (
-    
-//     <div> You have {money}$!</div>
-// )}
-
-// {money - total === 0 && (
-    
-//     <div> You do not have money !</div>
-// )}
 
 
